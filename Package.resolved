@@ -1,0 +1,24 @@
+{
+  "originHash" : "2f7c875070262936223e0fb8e7adf444fd2e098b9cd8f1363a2bd6cc958a33d5",
+  "pins" : [
+    {
+      "identity" : "applovin-max-swift-package",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/AppLovin/AppLovin-MAX-Swift-Package.git",
+      "state" : {
+        "revision" : "d829feb5b7de8755e9a1834c2e1e0b95c9126424",
+        "version" : "13.6.2"
+      }
+    },
+    {
+      "identity" : "tappxsdk-swift-package-manager",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/tappx-com/TappxSDK-swift-package-manager.git",
+      "state" : {
+        "revision" : "e8aaf2e225335ac1b2e53d32a69d3494b870b21f",
+        "version" : "4.2.16"
+      }
+    }
+  ],
+  "version" : 3
+}

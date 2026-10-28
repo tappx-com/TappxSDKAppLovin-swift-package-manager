@@ -1,0 +1,3 @@
+module TappxAppLovinAdapter {
+    header "TappxAppLovinAdapter.h"
+}
